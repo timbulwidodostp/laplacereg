@@ -1,0 +1,3 @@
+D 'Laplace': Laplace regression for censored data Use laplacereg With STATA 19
+F laplacereg.ado
+F laplacereg.sthlp
